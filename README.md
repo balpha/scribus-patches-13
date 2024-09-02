@@ -1,3 +1,7 @@
+This is an old project that was originally hosted on Bitbucket. When they retired support for Mercurial, I moved it to GitHub.
+
+**These patches are outdated; they apply to a very old version of Scribus. Some of this functionality has already been integrated into newer versions of Scribus. I'm in the process of porting some of these patches to Scribus 1.6 at https://github.com/balpha/scribus-patches-16.**
+
 # Overview
 
 This repository is a collection of patches that I apply on top of my version of [Scribus](http://www.scribus.net/canvas/Scribus) to add a few features I miss. Feel free to use them as well, but be aware that they are very specific to the way I use Scribus, and that they **should be considered incomplete** (e.g. missing undo/redo functionality, sub-par UI, etc.)
